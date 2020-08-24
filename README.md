@@ -27,10 +27,10 @@ This analysis was utilized to identify the follow information.
 
 * The only individual school affected by the data change was Thomas High School.
   * This table shows their scores before the data change
-![School Summary Before](resources/perSchoolSummary_before.PNG)
+![School Summary Before](Resources/perSchoolSummary_before.PNG)
 
   * This table shows their current scores
-![School Summary After](resources/perSchoolSummary_current.PNG)
+![School Summary After](Resources/perSchoolSummary_current.PNG)
 
 - Dropping the ninth graders’ math and reading scores from the database effected Thomas High School’s negatively.  There student performance scores were lower than before.  The change in the data had no effect on the student performance scores at the other individual schools.
 
