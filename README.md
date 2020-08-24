@@ -21,7 +21,7 @@ This analysis was utilized to identify the follow information.
   - % Overall Passing changed from 65% to 64.9%
 - This table shows the most current scores.
 
-![District Summary](resources/Key_Metrics.PNG)
+![District Summary](Resources/Key_Metrics.PNG)
 
 
 
